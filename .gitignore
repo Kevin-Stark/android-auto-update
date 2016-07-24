@@ -2,9 +2,7 @@
 /.gradle/
 /.idea/
 /build/
-/library/build/
-/library/library.iml
-/sample/build/
-/sample/sample.iml
+/app/build/
+/app/sample.iml
 /android-auto-update.iml
 /local.properties
